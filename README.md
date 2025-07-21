@@ -1,4 +1,4 @@
-## Hi there 👋
+[## Hi there 👋
 
 <!--
 **Fadil-Faisal/Fadil-Faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](https://linkedin.com/in/fadil-faisal)[README_Version2.md](https://github.com/user-attachments/files/21347987/README_Version2.md)
