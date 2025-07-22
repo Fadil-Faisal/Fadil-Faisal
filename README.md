@@ -5,10 +5,10 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/fadil-faisal" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="mailto:your.email@domain.com" target="_blank">
+  <a href="mailto:fadilfaisalk@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://yourportfolio.com" target="_blank">
@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Hey there! 👋 I'm [Your Name]</h1>
+<h1 align="center">Hey there! 👋 I'm Fadil Faisal</h1>
 
 ###
 
@@ -28,7 +28,7 @@
 
 I'm a **passionate Full Stack Developer** and **Freelancer** who loves turning complex problems into simple, beautiful solutions. With expertise in modern web technologies, I create scalable applications that make a real difference.
 
-- 🔭 **Currently working on:** Advanced React projects and API integrations
+- 🔭 **Currently working on:** Advanced React projects and API integrations, An E-commerce website and a personel website.
 - 🌱 **Learning:** Always exploring cutting-edge web technologies
 - 💼 **Freelancing:** Available for exciting web development projects
 - 🎯 **Goal:** Building applications that solve real-world problems
@@ -88,11 +88,8 @@ I'm a **passionate Full Stack Developer** and **Freelancer** who loves turning c
 ###
 
 <div align="center">
-  <a href="https://github.com/yourusername/netflix-clone">
+  <a href="https://github.com/Fadil-Faisal/netflix-clone">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=netflix-clone&theme=dracula" alt="Netflix Clone" />
-  </a>
-  <a href="https://github.com/yourusername/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=portfolio-website&theme=dracula" alt="Portfolio Website" />
   </a>
 </div>
 
@@ -124,7 +121,7 @@ I'm a **passionate Full Stack Developer** and **Freelancer** who loves turning c
 
 I'm always excited to collaborate on interesting projects or discuss new opportunities. Whether you're looking for a reliable freelancer or want to chat about the latest in web development, feel free to reach out!
 
-### ✍️ Random Dev Quote
+### ✍️ A Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
