@@ -67,8 +67,8 @@ I'm a **passionate Full Stack Developer** and **Freelancer** who loves turning c
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fadil-Faisal&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fadil-Faisal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -89,7 +89,7 @@ I'm a **passionate Full Stack Developer** and **Freelancer** who loves turning c
 
 <div align="center">
   <a href="https://github.com/Fadil-Faisal/netflix-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=netflix-clone&theme=dracula" alt="Netflix Clone" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fadil-Faisal&repo=netflix-clone&theme=dracula" alt="Netflix Clone" />
   </a>
 </div>
 
@@ -100,7 +100,7 @@ I'm a **passionate Full Stack Developer** and **Freelancer** who loves turning c
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula&hide_border=false&border_radius=15" height="300" alt="activity graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fadil-Faisal&theme=dracula&hide_border=false&border_radius=15" height="300" alt="activity graph"  />
 </div>
 
 ###
@@ -110,7 +110,7 @@ I'm a **passionate Full Stack Developer** and **Freelancer** who loves turning c
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Fadil-Faisal&theme=dracula&no-frame=false&no-bg=true&margin-w=4" />
 </div>
 
 ###
@@ -130,19 +130,19 @@ I'm always excited to collaborate on interesting projects or discuss new opportu
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yourusername.yourusername&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Fadil-Faisal.Fadil-Faisal&"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Fadil-Faisal/Fadil-Faisal/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Fadil-Faisal&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ###
